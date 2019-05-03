@@ -1,4 +1,4 @@
-class User {
+class Hello {
     public static void main(String[] args) {
         show();
     }
