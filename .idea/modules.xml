@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloAsm.iml" filepath="$PROJECT_DIR$/HelloAsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOP-ASM.iml" filepath="$PROJECT_DIR$/AOP-ASM.iml" />
     </modules>
   </component>
 </project>
